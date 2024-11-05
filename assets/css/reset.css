@@ -6,12 +6,3 @@
    box-sizing: border-box;
    font-family: 'Raleway', sans-serif;
 }
-
-h2 {
-   font-size: 2rem;
-   color: #33A8d8;
-   font-weight: 900;
-   text-transform: uppercase;
-   letter-spacing: 4px;
-   margin-bottom: 24px;
-}
